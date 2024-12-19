@@ -1,0 +1,34 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: Medieval German Text-Base for a Model for the 1400s
+url: https://github.com/JulianHelmchen/2024--medieval-german
+authors: []
+institutions: []
+description: >-
+  We used five Manuscripts: Renner Cod. 2810 ÖNB (1410); Büchsenmeisterbuch Cod.
+  3064 ÖNB (1440); Sammelhandschrift Stadtrecht Cod. 2780 ÖNB (1423);
+  Theologische Sammelhandschrift Cod. 2875 ÖNB (1400); Enikel Weltchronik Cod.
+  2921 ÖNB (1397)
+
+
+  Almost diplomatic Transcription with a few Exceptions - nasal Shortenings are
+  always realised as a line, "er" Abbreviation is realised as "’", Dots above
+  "y" were not (always) transcribed, colored Initials as plain Majuscels
+language:
+  - deu
+production-software: Transkribus
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1397'
+  notAfter: '1440'
+hands:
+  count: unknown
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Page-XML
+citation-file-link: >-
+  https://github.com/JulianHelmchen/2024--medieval-german/blob/9aa1b009ffe5bf1c8363a1a22cbdd2feb221c00a/CITATION.cff
